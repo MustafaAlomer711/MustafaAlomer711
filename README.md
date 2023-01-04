@@ -4,7 +4,7 @@ I am currently working on reaching a 100 days of coding streak!
 
 Please see below.
 
-(https://streak-stats.demolab.com?user=MustafaAlomer711&theme=black-ice)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MustafaAlomer711&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **MustafaAlomer711/MustafaAlomer711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
