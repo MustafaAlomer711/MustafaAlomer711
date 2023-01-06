@@ -2,7 +2,6 @@
 
 I am currently working on reaching a 100 days of coding streak!
 
-Please see below.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MustafaAlomer711)](https://git.io/streak-stats)
 
